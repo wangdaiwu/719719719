@@ -1,1 +1,1 @@
-# this is 719's repository
+# 第七次小组讨论课代码
